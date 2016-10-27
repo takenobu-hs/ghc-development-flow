@@ -1,5 +1,7 @@
 Simple illustrations for GHC development flow
 =============================================
+  walking guide for new contributors
+  ----------------------------------
 
 ### UNDER CONSTRUCTION ###
 
@@ -13,6 +15,6 @@ Contents
 --------
 
 - Overall relationship
-- GHC development flow
+- GHC compiler development flow
 - Infrastructure tools
 - References
