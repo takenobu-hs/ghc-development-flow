@@ -1,5 +1,5 @@
-Simple illustrations for GHC development flow
-=============================================
+GHC development flow
+====================
   walking guide for new contributors
   ----------------------------------
 
