@@ -1,0 +1,14 @@
+# Changelog 
+
+## Rev. 2016-Oct-30
+
+   * Update "committer flow" to "direct commit" on page 7
+
+   * Add a simple diagram for the various ticket states on new page 9
+
+   * Update ghc-proposals flow on page 10
+
+   * Correct "Arcanist" on page 13
+
+   * Add "travis" on page 13
+
