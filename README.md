@@ -16,5 +16,6 @@ Contents
 
 - Overall relationship
 - GHC compiler development flow
+- Document development flow
 - Infrastructure tools
 - References
