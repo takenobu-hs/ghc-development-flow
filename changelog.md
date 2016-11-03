@@ -1,5 +1,12 @@
 # Changelog 
 
+## Rev. 2016-Nov-03
+
+   * Add a link for test case on page 11
+
+   * Add document flow on page 12-15
+
+
 ## Rev. 2016-Oct-30
 
    * Update "committer flow" to "direct commit" on page 7
