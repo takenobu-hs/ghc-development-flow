@@ -3,8 +3,6 @@ GHC development flow
   walking guide for new contributors
   ----------------------------------
 
-### UNDER CONSTRUCTION ###
-
 This is simple illustrations for GHC development flow.
 
 Here is: [GHC development flow]
