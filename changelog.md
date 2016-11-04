@@ -1,5 +1,10 @@
 # Changelog 
 
+## Rev. 2016-Nov-04
+
+   * Remove "DRAFT" watermark
+
+
 ## Rev. 2016-Nov-03
 
    * Add a link for test case on page 11
