@@ -1,5 +1,10 @@
 # Changelog 
 
+## Rev. 2017-Jan-08
+
+   * Update link for The GHC Steering Committee([2]) on page 19
+
+
 ## Rev. 2016-Nov-04
 
    * Remove "DRAFT" watermark
