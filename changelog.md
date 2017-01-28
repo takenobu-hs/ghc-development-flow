@@ -1,5 +1,14 @@
 # Changelog 
 
+## Rev. 2017-Jan-28
+
+   * Add github PR process on page 11
+
+   * Update patch flow on page 6-7
+
+   * Add references ([23],[32]) on page 22-23
+
+
 ## Rev. 2017-Jan-08
 
    * Update link for The GHC Steering Committee([2]) on page 19
