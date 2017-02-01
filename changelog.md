@@ -1,5 +1,10 @@
 # Changelog 
 
+## Rev. 2017-Feb-01
+
+   * Correct typo "merge" on page 9
+
+
 ## Rev. 2017-Jan-28
 
    * Add github PR process on page 11
