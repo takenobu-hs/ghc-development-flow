@@ -5,8 +5,7 @@ GHC development flow
 
 This is simple illustrations for GHC(Glasgow Haskell Compiler) development flow.
 
-Here is: [GHC development flow]
-(http://takenobu-hs.github.io/downloads/ghc_development_flow.pdf) (PDF).
+Here is: [GHC development flow](http://takenobu-hs.github.io/downloads/ghc_development_flow.pdf) (PDF).
 
 
 Contents
